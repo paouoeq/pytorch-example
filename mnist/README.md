@@ -1,3 +1,4 @@
+# My name is Seolah Park
 # Basic MNIST Example
 
 ```bash
